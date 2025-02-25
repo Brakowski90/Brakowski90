@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brakowski90
-- 👀 I’m interested in healthcare software
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in healthcare related software
+- 🌱 I have experience with the MERN stack
 - 💞️ I’m looking to collaborate with likeminded devs
 - 📫 How to reach me brandonrakowski90@gmail.com
 - 😄 Pronouns: He/Him
