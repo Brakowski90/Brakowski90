@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Brakowski90
-- 👀 I’m interested in healthcare related software
-- 🌱 I have experience with the MERN stack
-- 💞️ I’m looking to collaborate with likeminded devs
-- 📫 How to reach me brandonrakowski90@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once built a website in a single weekend!
+👋 Hi, I’m @Brakowski90!
+👀 Passionate about healthcare-related software
+🌱 Experienced in the MERN stack
+💡 Open to collaborating with like-minded devs
+📫 Reach me at brandonrakowski90@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I built a website for one of the world's largest steel manufacturers!
+
+
 
 <!---
 Brakowski90/Brakowski90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
