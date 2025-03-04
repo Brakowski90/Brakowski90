@@ -1,10 +1,10 @@
-👋 Hi, I’m @Brakowski90!
-👀 Passionate about healthcare-related software
-🌱 Experienced in the MERN stack
-💡 Open to collaborating with like-minded devs
-📫 Reach me at brandonrakowski90@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I built a website for one of the world's largest steel manufacturers!
+- 👋 Hi, I’m @Brakowski90!
+- 👀 Passionate about healthcare-related software
+- 🌱 Experienced in the MERN stack
+- 💡 Open to collaborating with like-minded devs
+- 📫 Reach me at brandonrakowski90@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I built a website for one of the world's largest steel manufacturers!
 
 
 
